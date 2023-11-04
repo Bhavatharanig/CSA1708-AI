@@ -57,3 +57,5 @@ if __name__ == "__main__":
 	print("The optimal value is :", minimax(0, 0, True, values, MIN, MAX))
 	
 # This code is contributed by Rituraj Jain
+OUTPUT:
+The optimal value is : 5
