@@ -28,3 +28,7 @@ if __name__ == "__main__":
 	s = 0
 	print("Min path:")
 	print(travellingSalesmanProblem(graph, s))
+
+OUTPUT:
+Min path:
+80
