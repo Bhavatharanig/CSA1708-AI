@@ -110,3 +110,12 @@ if isSolvable(arr, S):
 	print("Yes Can be solved")
 else:
 	print("No Cannot be solved")
+
+OUTPUT:
+SIX
+SEVEN
+SEVEN
+---------
+TWENTY
+---------
+Yes Can be solved
