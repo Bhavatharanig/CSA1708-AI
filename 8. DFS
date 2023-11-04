@@ -38,3 +38,10 @@ g.addEdge(3, 2)
 
 print ("Following is Depth First Traversal")
 g.DFS()
+
+OUTPUT:
+Following is Depth First Traversal
+0
+1
+2
+3
