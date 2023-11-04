@@ -36,7 +36,6 @@ for i in board:
     print (i)
 
 OUTPUT:
-OUTPUT:
 Enter the number of queens
 6
 [0, 1, 0, 0, 0, 0]
