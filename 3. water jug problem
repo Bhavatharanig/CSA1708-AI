@@ -35,3 +35,8 @@ def waterJugSolver(amt1, amt2):
 print("Steps: ")
 
 waterJugSolver(0, 0)
+
+OUTPUT:
+Solution
+Jug X: 4/4
+Jug Y: 2/3
